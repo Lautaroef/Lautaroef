@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lautaro
-- 👀 I’m interested in Front-End Development with a focus in React - Redux.
+- 👋 Hi, I’m Lautaro :D
+- 👀 I’m interested in Front-End Development with a focus in React and Redux.
 - 🌱 Currently learning TypeScript.
 - 💞️ I'm looking for my first job in tech 
 - 📫 How to reach me: lautaroef@gmail.com.
