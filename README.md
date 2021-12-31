@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lautaro :D
 - 👀 I’m interested in Front-End Development with a focus in React and Redux.
-- 🌱 Currently learning TypeScript.
+- 🌱 Currently learning NodeJS.
 - 💞️ I'm looking for my first job in tech 
 - 📫 How to reach me: lautaroef@gmail.com.
 - <a href="https://lautarofigueroa-dev.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" height=25></a>
