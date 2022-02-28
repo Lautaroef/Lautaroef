@@ -8,19 +8,16 @@
 
 ### Some of the skills/languages i use:
 
-<div style="display: flex">
-<img alt="ReactJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Redux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="MaterialUI" width="35px" src="./images/materialUI.png">
-<img alt="TailwindCSS" width="35px" src="./images/tailwindCSS.png">
+<div style="display: flex; align-items: center; justify-content: center; gap: 10rem">
+<img alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img alt="TailwindCSS" width="50px" src="./images/tailwindCSS.png">
 <img alt="styled-components" width="50px" src="./images/styledComponents.png">
+<img alt="MongoDB" width='50px' src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png"/>
+<img alt="NodeJS" width='65px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"/>
+<img alt="Express" width='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
 <img alt="Git" width="35px" src="https://user-images.githubusercontent.com/5834000/125217429-36557f80-e286-11eb-84c6-05e346cebe8a.png" />
-<img alt="Visual Studio Code" width="35px" src="./images/VSC.png" />
-<img alt="VIM" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 </div
 
 ---
