@@ -13,7 +13,6 @@
 <img alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 <img alt="TailwindCSS" width="50px" src="./images/tailwindCSS.png">
-<img alt="styled-components" width="50px" src="./images/styledComponents.png">
 <img alt="MongoDB" width='50px' src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png"/>
 <img alt="NodeJS" width='65px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"/>
 <img alt="Express" width='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
