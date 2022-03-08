@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lautaro
-- 👀 I'm interested in Front-End Development with a focus on React and Redux.
+- 👀 I like to build websites from scratch using MERN stack.
 - 🌱 Currently learning Typescript - NextJs.
 - 💭 Interested in learning cryptography - solidity
 - 💞️ I'm looking for my first job in tech 
