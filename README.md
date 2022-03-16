@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lautaro
 - 👀 I like to build websites from scratch using MERN stack.
-- 🌱 Currently learning Typescript - NextJs.
+- 🌱 Currently learning Typescript - Next.js.
 - 💭 Interested in learning cryptography - solidity
 - 💞️ I'm looking for my first job in tech 
 - 📫 How to reach me: lautaroef@gmail.com.
