@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lautaro
 - 👀 I like to build websites from scratch using MERN stack.
-- 🌱 Currently learning Typescript - Next.js.
-- 💭 Interested in learning cryptography - solidity
+- 🌱 Currently learning Python - SQL Databases
+- 💭 Interested in learning Typescript - Next.js
 - 💞️ I'm looking for my first job in tech 
 - 📫 How to reach me: lautaroef@gmail.com.
 - <a href="https://lautarofigueroa-dev.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" height=25></a>
@@ -9,7 +9,7 @@
 
 ### Some of the skills/languages i use:
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10rem">
+<div style="display: flex; align-items: center; justify-content: center">
 <img alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
