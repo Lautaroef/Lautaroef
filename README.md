@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lautaro
-- 👀 I like to build websites from scratch using MERN stack.
+- 👀 I like to build websites from scratch using the MERN stack
 - 🌱 Currently learning Python - SQL Databases
 - 💭 Interested in learning Typescript - Next.js
 - 💞️ I'm looking for my first job in tech 
@@ -14,10 +14,10 @@
 <img alt="Redux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 <img alt="TailwindCSS" width="50px" src="./images/tailwindCSS.png">
-<img alt="MongoDB" width='50px' src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png"/>
-<img alt="NodeJS" width='65px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"/>
+<img alt="MongoDB" style="width: 85px; aling-self: flex-end" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQqEWsiI-e4sWyc9d4QTcEAIWt3K4QUZaNrO2olCmvpKcNwck8xh2qWOV_MM8MOPmfQHQ&usqp=CAU" />
+<img alt="NodeJS" style="width: 55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"/>
 <img alt="Express" width='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
-<img alt="Git" width="35px" src="https://user-images.githubusercontent.com/5834000/125217429-36557f80-e286-11eb-84c6-05e346cebe8a.png" />
+<img alt="Git" width="40px" src="https://user-images.githubusercontent.com/5834000/125217429-36557f80-e286-11eb-84c6-05e346cebe8a.png" />
 </div
 
 ---
