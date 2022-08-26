@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Lautaro
-- 👀 I like to build websites from scratch using the MERN stack
-- 🌱 Currently learning Python - SQL Databases
-- 💭 Interested in learning Typescript - Next.js
-- 💞️ I'm looking for my first job in tech 
 - 📫 How to reach me: lautaroef@gmail.com.
 - <a href="https://lautarofigueroa-dev.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" height=25></a>
 
