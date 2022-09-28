@@ -23,8 +23,8 @@
 ---
 
 <a href="mailto:lautaroef@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="Lautaro Figueroa | LinkedIn"/></a>
-<a href="https://www.linkedin.com/in/lautaro-figueroa-40451815a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="Lautaro Figueroa | LinkedIn"/></a>
-<a href="https://t.me/Lautaro197" target="_blank">
+<a href="https://www.linkedin.com/in/lautaro-figueroa-it/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="Lautaro Figueroa | LinkedIn"/></a>
+<a href="https://t.me/lautifigueroa" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Website"></a>
 <a href="https://lautarofigueroa-dev.web.app/"  target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" ></a>
