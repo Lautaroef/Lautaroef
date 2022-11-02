@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Lautaro
+- 👋 Hi, I’m Lautaro a Full-Stack web developer
+- 🔨 Currently building a software which will help tourism operators with their organization and bookings. (Advances so far: https://booking-software-lautarofigueroa.vercel.app/)
+- 💻 Interested in learning Microservices architecture & some cybersecurity.
 - 📫 How to reach me: lautaroef@gmail.com.
-- <a href="https://lautarofigueroa-dev.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" height=25></a>
 
 
 ### Some of the skills/languages i use:
@@ -22,10 +23,8 @@
 ---
 ---
 
-<a href="mailto:lautaroef@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="Lautaro Figueroa | LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" ></a> <a href="mailto:lautaroef@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="Lautaro Figueroa | LinkedIn"/></a>
 <a href="https://www.linkedin.com/in/lautaro-figueroa-it/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt ="Lautaro Figueroa | LinkedIn"/></a>
 <a href="https://t.me/lautifigueroa" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Website"></a>
-<a href="https://lautarofigueroa-dev.web.app/"  target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" ></a>
+
 
