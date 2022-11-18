@@ -8,6 +8,7 @@
 ### Technologies I use:
 <div>
   <img height="38" width="38" alt="React" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/react.svg"/>
+    
   <img height="38" width="38" alt="Redux" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/redux.svg" />
   <img height="38" width="38" alt="TypeScript" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/typescript.svg" />
   <img height="38" width="38" alt="Next.js" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/nextjs.svg" />
@@ -16,7 +17,6 @@
   <img height="38" width="38" alt="MySQL" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/mysql.svg" />
   <img height="38" width="38" alt="Prisma" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/prisma.svg" />
   <img height="38" width="38" alt="PlanetScale" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/planetscale.svg" />
-  <img height="38" width="38" alt="Sass" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/sass.svg" />
   <img height="38" width="38" alt="GIT" src="https://raw.githubusercontent.com/Lautaroef/Lautaroef/14914eff5a59f9bbcda8cdb50b484b8629c3983b/technologies/git.svg" />
 </div
 
