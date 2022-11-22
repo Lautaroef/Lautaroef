@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lautaro
-- 💼 Currently working as a contractor Full-Stack web developer in Freelance
+- 💼 Currently working as a contractor Full-Stack web Developer in Freelance
 - 🔨 Now building a software which will help tourism operators with their organization and bookings. (Advances so far: https://booking-software-lautarofigueroa.vercel.app/)
 - 🎯 Interested in learning: Microservices architecture & some cybersecurity
 - 💻 Some of my works can be seen on my portfolio at https://lautarofigueroa.vercel.app/
