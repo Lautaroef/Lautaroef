@@ -1,8 +1,8 @@
-- 💼 Currently working as a Full-Stack web Developer alogn with Software Developmetn Agencies
-- 🔨 Now building a software which will help tourism operators with their organization and bookings. (Advances so far: https://booking-software-lautarofigueroa.vercel.app/)
+- 💼 Currently working as a Full-Stack web Developer along with Software Development Agencies
+- 🔨 Now building an All-in-one solution for tourism operators. (Advances so far: https://booking-software-lautarofigueroa.vercel.app/)
 - 🎯 Interested in learning: Microservices-based architecture & Cybersecurity best practices and technologies
-- 💻 Work portfolio https://lautarofigueroa.vercel.app/
-- 📫 Gmail lautaroef@gmail.com
+- 💻 Work portfolio: https://lautarofigueroa.vercel.app/
+- 📫 Gmail: lautaroef@gmail.com
 
 ### Technologies I use:
 <ul>
