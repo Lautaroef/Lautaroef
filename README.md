@@ -1,6 +1,6 @@
-- 💼 Currently working as a Full-Stack web Developer along with Software Development Agencies
-- 🔨 Now building an All-in-one solution for tourism operators. (Advances so far: https://booking-software-lautarofigueroa.vercel.app/)
-- 🎯 Interested in learning: Microservices-based architecture & Cybersecurity best practices and technologies
+- 💼 Currently working as a Cloud AWS Developer at Sacra 
+- 💻 I also specialize in Full-stack Development with JavaScript/React,  Node.js, PostgreSQL, MongoDB and AWS.
+- 🎯 Interested in DevOps
 - 💻 Work portfolio: https://lautarofigueroa.vercel.app/
 - 📫 Gmail: lautaroef@gmail.com
 
